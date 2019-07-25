@@ -1,2 +1,0 @@
-# KillTheHell
-Drifting Simulator
